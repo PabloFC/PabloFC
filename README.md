@@ -9,6 +9,13 @@ Full Stack Developer with experience in creating web and mobile applications usi
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+### 🛠️ Other code languages I have used:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+
 <!--
 **PabloFC/PabloFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
