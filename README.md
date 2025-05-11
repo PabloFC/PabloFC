@@ -4,7 +4,7 @@
 
 I'm a **Frontend Developer** with experience in **React, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS**. I'm passionate about building clean, accessible, and responsive user interfaces. I've worked on real-world individual and collaborative projects, integrating APIs and designing reusable components. Several of my apps are live on Vercel.
 
-🎓 I hold a **Higher National Degree in Web Application Development** and I'm currently studying at **42 Málaga**, a peer-to-peer, project-based coding school where I'm developing skills in **C programming**, **Linux systems**, and **team collaboration through real-world projects**.
+🎓 I hold a **Higher Degree in Web Application Development** and I'm currently studying at **42 Málaga**, a peer-to-peer, project-based coding school where I'm developing skills in **C programming**, **Linux systems**, and **team collaboration through real-world projects**.
 
 I also have backend knowledge with **Node.js and SQL**, which allows me to understand full stack workflows and collaborate effectively in multidisciplinary teams.
 
@@ -48,8 +48,6 @@ Currently focused on sharpening my skills with **Next.js**, **TypeScript**, and 
 ---
 
 ### 📊 GitHub Stats
-
-![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloFC&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFC&layout=compact&langs_count=6&theme=default)
 
