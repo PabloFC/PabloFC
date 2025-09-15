@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Pablo Fuentes
+## 👋 I'm Pablo Fuentes
 
 ### 👨🏻‍💻 About Me
 
