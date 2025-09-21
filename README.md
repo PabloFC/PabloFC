@@ -40,10 +40,30 @@ Currently focused on sharpening my skills with **Next.js**, **TypeScript**, and 
 
 ### 🚀 Featured Projects:
 
-🔹 [E-commerce with shopping cart (React + Bootstrap + Fakestore API)](https://fake-api-react-sand.vercel.app)  
-🔹 [Movie Search App (React + Bootstrap + OMDb API)](https://omd-api.vercel.app)  
-🔹 [Calculator (React + Tailwind)](https://calculator-app-azure-six.vercel.app)  
-🔹 [Landing Page (React + Tailwind)](https://trademiun-landing-page-e9lk.vercel.app)
+🔹 [Ecommerce with Shopping Cart (React + Bootstrap + Fakestore API)](https://fake-api-react-sand.vercel.app/)  
+&nbsp;&nbsp;&nbsp;A full-featured e-commerce app with shopping cart, built using React and Bootstrap, consuming the Fakestore API.
+
+🔹 [Movie Search App (React + Bootstrap + OMDb API)](https://omd-api.vercel.app/)  
+&nbsp;&nbsp;&nbsp;Search and view movie information using the OMDb API, styled with Bootstrap.
+
+🔹 [Calculator (React + Tailwind)](https://calculator-app-azure-six.vercel.app/)  
+&nbsp;&nbsp;&nbsp;A responsive, fully functional calculator built with React and Tailwind CSS.
+
+🔹 [Landing Page (React + Tailwind)](https://trademiun-landing-page-e9lk.vercel.app/)  
+&nbsp;&nbsp;&nbsp;A modern and responsive landing page made with React and Tailwind CSS.
+
+🔹 [Travel Landing Page (Next.js + CSS Modules)](https://landing-page-de-viajes.vercel.app/)  
+&nbsp;&nbsp;&nbsp;My first project with Next.js: a dynamic travel-themed landing page using CSS Modules.
+
+---
+
+🔧 **42 Telefónica Projects:**
+
+🔹 [Push Swap](https://github.com/PabloFC/push_swap)  
+&nbsp;&nbsp;&nbsp;An optimized sorting algorithm implemented in C.
+
+🔹 [So_Long](https://github.com/PabloFC/so_long)  
+&nbsp;&nbsp;&nbsp;A 2D game with simple graphics using the MLX library.
 
 ---
 
