@@ -78,11 +78,7 @@ Currently focused on sharpening my skills with **Next.js**, **TypeScript**, and 
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/pablo-fuentes-254693226) or check out more of my work here on [GitHub](https://github.com/PabloFC).
 
----
 
-<!--
-**PabloFC/PabloFC** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
-``` ````
+
 
 
