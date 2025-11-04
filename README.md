@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 About Me
 
-I'm a **Frontend Developer** with experience in **React, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS**. I'm passionate about building clean, accessible, and responsive user interfaces. I've worked on real-world individual and collaborative projects, integrating APIs and designing reusable components. Several of my apps are live on Vercel.
+I'm a **Frontend Developer** with experience in **React, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS**. I'm passionate about building clean, accessible, and responsive user interfaces. I've [...]
 
-🎓 I hold a **Higher Degree in Web Application Development** and I'm currently studying at **42 Málaga**, a peer-to-peer, project-based coding school where I'm developing skills in **C programming**, **Linux systems**, and **team collaboration through real-world projects**.
+🎓 I hold a **Higher Degree in Web Application Development** and I'm currently studying at **42 Málaga**, a peer-to-peer, project-based coding school where I'm developing skills in **C programmi[...]
 
 I also have backend knowledge with **Node.js and SQL**, which allows me to understand full stack workflows and collaborate effectively in multidisciplinary teams.
 
@@ -41,17 +41,14 @@ Currently focused on sharpening my skills with **Next.js**, **TypeScript**, and 
 
 ### 🚀 Featured Projects:
 
+🔹 [Citypulse (Next + TypeScript + Tailwind)](https://citypulse-blue.vercel.app/)  
+&nbsp;&nbsp;&nbsp;A modern web application built with TypeScript and deployed on Vercel.
+
 🔹 [Ecommerce with Shopping Cart (React + Bootstrap + Fakestore API)](https://fake-api-react-sand.vercel.app/)  
 &nbsp;&nbsp;&nbsp;A full-featured e-commerce app with shopping cart, built using React and Bootstrap, consuming the Fakestore API.
 
-🔹 [Movie Search App (React + Bootstrap + OMDb API)](https://omd-api.vercel.app/)  
-&nbsp;&nbsp;&nbsp;Search and view movie information using the OMDb API, styled with Bootstrap.
-
 🔹 [Calculator (React + Tailwind)](https://calculator-app-azure-six.vercel.app/)  
 &nbsp;&nbsp;&nbsp;A responsive, fully functional calculator built with React and Tailwind CSS.
-
-🔹 [Landing Page (React + Tailwind)](https://trademiun-landing-page-e9lk.vercel.app/)  
-&nbsp;&nbsp;&nbsp;A modern and responsive landing page made with React and Tailwind CSS.
 
 🔹 [Travel Landing Page (Next.js + CSS Modules)](https://landing-page-de-viajes.vercel.app/)  
 &nbsp;&nbsp;&nbsp;My first project with Next.js: a dynamic travel-themed landing page using CSS Modules.
@@ -77,7 +74,6 @@ Currently focused on sharpening my skills with **Next.js**, **TypeScript**, and 
 ### 📫 Let's connect!
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/pablo-fuentes-254693226) or check out more of my work here on [GitHub](https://github.com/PabloFC).
-
 
 
 
