@@ -42,7 +42,7 @@ Currently focused on sharpening my skills with **Next.js**, **TypeScript**, and 
 ### 🚀 Featured Projects:
 
 🔹 [Citypulse (Next + TypeScript + Tailwind)](https://citypulse-blue.vercel.app/)  
-&nbsp;&nbsp;&nbsp;A modern web application built with TypeScript and deployed on Vercel.
+&nbsp;&nbsp;&nbsp; Explore real-time weather, points of interest, upcoming events, and local news for Spain's major cities.
 
 🔹 [Ecommerce with Shopping Cart (React + Bootstrap + Fakestore API)](https://fake-api-react-sand.vercel.app/)  
 &nbsp;&nbsp;&nbsp;A full-featured e-commerce app with shopping cart, built using React and Bootstrap, consuming the Fakestore API.
