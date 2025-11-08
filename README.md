@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 
-I'm a **Frontend Developer** with experience in **React, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS**. I'm passionate about building clean, accessible, and responsive user interfaces. I've [...]
+I'm a **Frontend Developer** with experience in **React, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS**. I'm passionate about building clean, accessible, and responsive user interfaces.
 
 🎓 I hold a **Higher Degree in Web Application Development** and I'm currently studying at **42 Málaga**, a peer-to-peer, project-based coding school where I'm developing skills in C and C++.
 
