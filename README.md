@@ -55,13 +55,16 @@ Currently focused on sharpening my skills with **Next.js**, **TypeScript**, and 
 
 ---
 
-🔧 **42 Telefónica Projects:**
+### 🔧 42 Telefónica Projects:
 
 🔹 [Push Swap](https://github.com/PabloFC/push_swap)  
 &nbsp;&nbsp;&nbsp;An optimized sorting algorithm implemented in C.
 
 🔹 [So_Long](https://github.com/PabloFC/so_long)  
 &nbsp;&nbsp;&nbsp;A 2D game with simple graphics using the MLX library.
+
+🔹 [Cub3D](https://github.com/PabloFC/cub3d)  
+&nbsp;&nbsp;&nbsp;A 3D raycasting engine inspired by Wolfenstein 3D, built using C and the MLX library.
 
 ---
 
@@ -74,6 +77,7 @@ Currently focused on sharpening my skills with **Next.js**, **TypeScript**, and 
 ### 📫 Let's connect!
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/pablo-fuentes-254693226) or check out more of my work here on [GitHub](https://github.com/PabloFC).
+
 
 
 
