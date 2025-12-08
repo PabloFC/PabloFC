@@ -47,11 +47,11 @@ Currently focused on sharpening my skills with **Next.js**, **TypeScript**, and 
 🔹 [Ecommerce with Shopping Cart (React + Bootstrap + Fakestore API)](https://fake-api-react-sand.vercel.app/)  
 &nbsp;&nbsp;&nbsp;A full-featured e-commerce app with shopping cart, built using React and Bootstrap, consuming the Fakestore API.
 
+🔹 [Todo List (React + Tailwind + Node.js)](https://todolist-frontend-eyf9.onrender.com)  
+&nbsp;&nbsp;&nbsp;A full-stack task manager with CRUD functionality, built using React, Tailwind CSS, and a Node.js backend.
+
 🔹 [Calculator (React + Tailwind)](https://calculator-app-azure-six.vercel.app/)  
 &nbsp;&nbsp;&nbsp;A responsive, fully functional calculator built with React and Tailwind CSS.
-
-🔹 [Travel Landing Page (Next.js + CSS Modules)](https://landing-page-de-viajes.vercel.app/)  
-&nbsp;&nbsp;&nbsp;My first project with Next.js: a dynamic travel-themed landing page using CSS Modules.
 
 ---
 
