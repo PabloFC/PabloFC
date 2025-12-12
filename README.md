@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 
-I'm a **Frontend Developer** with experience in **React, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS**. I'm passionate about building clean, accessible, and responsive user interfaces.
+I'm a **FullStack Developer** with experience in **React, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS**. I'm passionate about building clean, accessible, and responsive user interfaces.
 
 🎓 I hold a **Higher Degree in Web Application Development** and I'm currently studying at **42 Málaga**, a peer-to-peer, project-based coding school where I'm developing skills in C and C++.
 
@@ -63,7 +63,7 @@ Currently focused on sharpening my skills with **Next.js**, **TypeScript**, and 
 🔹 [So_Long](https://github.com/PabloFC/so_long)  
 &nbsp;&nbsp;&nbsp;A 2D game with simple graphics using the MLX library.
 
-🔹 [Cub3D](https://github.com/PabloFC/cub3d)  
+🔹 [Cub3D](https://github.com/PabloFC/cub3d_finished)  
 &nbsp;&nbsp;&nbsp;A 3D raycasting engine inspired by Wolfenstein 3D, built using C and the MLX library.
 
 ---
