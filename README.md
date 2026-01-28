@@ -54,6 +54,12 @@ Currently focused on sharpening my skills with **Next.js**, **TypeScript**, and 
 🔹 [Calculator (React + Tailwind)](https://calculator-app-azure-six.vercel.app/)  
 &nbsp;&nbsp;&nbsp;A responsive, fully functional calculator built with React and Tailwind CSS.
 
+🔹 [FAQ Accordion (HTML, CSS, JavaScript)](https://faq-accordion-sage-kappa.vercel.app/)
+    An implementation of the Frontend Mentor “FAQ accordion” challenge, where you build an interactive FAQ section that expands and collapses answers when questions are clicked, focusing on responsive behavior and keyboard accessibility.
+
+🔹 [Testimonials Grid Section (HTML, CSS GRID, JavaScript)](https://testimonials-grid-section-phi-gilt.vercel.app/)
+    A layout project based on the Frontend Mentor “Testimonials grid section” challenge, creating a responsive grid to display user testimonials that adapts to different screen sizes.
+
 ---
 
 ### 🔧 42 Telefónica Projects:
