@@ -45,13 +45,13 @@ Currently focused on sharpening my skills with **Next.js**, **TypeScript**, and 
 ### 🚀 Featured Projects:
 
 🔹 [Rent-a-Car (React + Tailwind + Node.js)](https://rent-a-car-mocha.vercel.app/)
-&nbsp;&nbsp;&nbsp; A comprehensive car rental management application featuring a dynamic vehicle catalog and booking interface.
+A comprehensive car rental management application featuring a dynamic vehicle catalog and booking interface.
 
 🔹 [Citypulse (Next + TypeScript + Tailwind)](https://citypulse-blue.vercel.app/)  
 &nbsp;&nbsp;&nbsp; Explore real-time weather, points of interest, upcoming events, and local news for Spain's major cities.
 
 🔹 [Ecommerce with Shopping Cart (React + Bootstrap + Fakestore API)](https://fake-api-react-sand.vercel.app/)  
-&nbsp;&nbsp;&nbsp;A full-featured e-commerce app with shopping cart, built using React and Bootstrap, consuming the Fakestore API.
+A full-featured e-commerce app with shopping cart, built using React and Bootstrap, consuming the Fakestore API.
 
 🔹 [Todo List (React + Tailwind + Node.js)](https://todolist-frontend-eyf9.onrender.com)  
 &nbsp;&nbsp;&nbsp;A full-stack task manager with CRUD functionality, built using React, Tailwind CSS, and a Node.js backend.
