@@ -44,6 +44,9 @@ Currently focused on sharpening my skills with **Next.js**, **TypeScript**, and 
 
 ### 🚀 Featured Projects:
 
+🔹 [Rent-a-Car (React + Tailwind + Node.js)](https://github.com/PabloFC/rent-a-car)  
+&nbsp;&nbsp;&nbsp; A comprehensive car rental management application featuring a dynamic vehicle catalog and booking interface.
+
 🔹 [Citypulse (Next + TypeScript + Tailwind)](https://citypulse-blue.vercel.app/)  
 &nbsp;&nbsp;&nbsp; Explore real-time weather, points of interest, upcoming events, and local news for Spain's major cities.
 
@@ -52,9 +55,6 @@ Currently focused on sharpening my skills with **Next.js**, **TypeScript**, and 
 
 🔹 [Todo List (React + Tailwind + Node.js)](https://todolist-frontend-eyf9.onrender.com)  
 &nbsp;&nbsp;&nbsp;A full-stack task manager with CRUD functionality, built using React, Tailwind CSS, and a Node.js backend.
-
-🔹 [Calculator (React + Tailwind)](https://calculator-app-azure-six.vercel.app/)  
-&nbsp;&nbsp;&nbsp;A responsive, fully functional calculator built with React and Tailwind CSS.
 
 🔹 [FAQ Accordion (HTML, CSS, JavaScript)](https://faq-accordion-sage-kappa.vercel.app/)
     An implementation of the Frontend Mentor “FAQ accordion” challenge, where you build an interactive FAQ section that expands and collapses answers when questions are clicked, focusing on responsive behavior and keyboard accessibility.
