@@ -44,7 +44,7 @@ Currently focused on sharpening my skills with **Next.js**, **TypeScript**, and 
 
 ### 🚀 Featured Projects:
 
-🔹 [Rent-a-Car (React + Tailwind + Node.js)](https://github.com/PabloFC/rent-a-car)  
+🔹 [Rent-a-Car (React + Tailwind + Node.js)](https://rent-a-car-mocha.vercel.app/)
 &nbsp;&nbsp;&nbsp; A comprehensive car rental management application featuring a dynamic vehicle catalog and booking interface.
 
 🔹 [Citypulse (Next + TypeScript + Tailwind)](https://citypulse-blue.vercel.app/)  
